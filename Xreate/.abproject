@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Xreate",
+  "ProjectGuid": "0c03e34c-f46f-4839-b6b4-153364c2f9eb",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Xreate",
+  "DisplayName": "Xreate",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{cd440f1f-d080-4c5a-9a7a-9e64af6658cd}",
+  "WP8ProductID": "{6e500785-b9c6-4e40-baf3-78b8e698751d}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Xreate",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
